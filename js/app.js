@@ -1,10 +1,14 @@
 window.onload = function () {
   const commission_select = document.getElementById('commission');
+  const groupe_select = document.getElementById('groupe');
   const deputes_select = document.getElementById('deputes_emails');
-  populateCommissionOptions(commission_select);
+
+  populateCategoryOptions(commission_select, 'commission_permanente');
+  populateCategoryOptions(groupe_select, 'groupe_sigle');
   populateEmailOptions(deputes_select);
 
   commission_select.oninput = selectEmailsByCommission;
+  groupe_select.oninput = selectEmailsByGroupe;
   deputes_select.oninput = unSelectOptions;
 };
 
@@ -13,14 +17,14 @@ async function fetchData() {
   return await export_deputes.json();
 }
 
-async function populateCommissionOptions(commission_select) {
+async function populateCategoryOptions(select_elt, key) {
   const export_deputes_json = await fetchData();
-  [... new Set(export_deputes_json.map(depute => depute["commission_permanente"]))]
+  [... new Set(export_deputes_json.map(depute => depute[key]))]
     .forEach(commission => {
       let opt = document.createElement("option");
       opt.value = commission;
       opt.label = commission;
-      commission_select.appendChild(opt);
+      select_elt.appendChild(opt);
     });
 }
 
@@ -51,9 +55,29 @@ async function selectEmailsByCommission() {
   });
 }
 
+async function selectEmailsByGroupe() {
+  const groupe_select = document.getElementById('groupe');
+  const deputes_select = document.getElementById('deputes_emails');
+
+  [...deputes_select.selectedOptions].forEach(o => o.selected = false);
+
+  let selected_commissions = [...groupe_select.selectedOptions].map(o => o.value);
+  const export_deputes_json = await fetchData();
+
+  [...deputes_select.options].forEach((o) => {
+    let depute = export_deputes_json.find(d => d["assemblee_nationale_email"] == o.value);
+    if (selected_commissions.includes(depute["groupe_sigle"])) {
+      o.selected = true;
+    }
+  });
+}
+
 function unSelectOptions() {
   const commission_select = document.getElementById('commission');
+  const groupe_select = document.getElementById('groupe');
+
   [...commission_select.selectedOptions].forEach(o => o.selected = false);
+  [...groupe_select.selectedOptions].forEach(o => o.selected = false);
 }
 
 function writeEmail() {
