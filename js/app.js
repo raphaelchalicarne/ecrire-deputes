@@ -1,5 +1,11 @@
 window.onload = function () {
-  populateEmailOptions();
+  const commission_select = document.getElementById('commission');
+  const deputes_select = document.getElementById('deputes_emails');
+  populateCommissionOptions(commission_select);
+  populateEmailOptions(deputes_select);
+
+  commission_select.oninput = selectEmailsByCommission;
+  deputes_select.oninput = unSelectOptions;
 };
 
 async function fetchData() {
@@ -7,15 +13,47 @@ async function fetchData() {
   return await export_deputes.json();
 }
 
-async function populateEmailOptions() {
-  var select_deputes = document.getElementById('deputes_emails');
+async function populateCommissionOptions(commission_select) {
+  const export_deputes_json = await fetchData();
+  [... new Set(export_deputes_json.map(depute => depute["commission_permanente"]))]
+    .forEach(commission => {
+      let opt = document.createElement("option");
+      opt.value = commission;
+      opt.label = commission;
+      commission_select.appendChild(opt);
+    });
+}
+
+async function populateEmailOptions(deputes_select) {
   const export_deputes_json = await fetchData();
   export_deputes_json.forEach(depute => {
     let opt = document.createElement("option");
     opt.value = depute["assemblee_nationale_email"];
     opt.label = depute["nom"];
-    select_deputes.appendChild(opt);
+    deputes_select.appendChild(opt);
   });
+}
+
+async function selectEmailsByCommission() {
+  const commission_select = document.getElementById('commission');
+  const deputes_select = document.getElementById('deputes_emails');
+
+  [...deputes_select.selectedOptions].forEach(o => o.selected = false);
+
+  let selected_commissions = [...commission_select.selectedOptions].map(o => o.value);
+  const export_deputes_json = await fetchData();
+
+  [...deputes_select.options].forEach((o) => {
+    let depute = export_deputes_json.find(d => d["assemblee_nationale_email"] == o.value);
+    if (selected_commissions.includes(depute["commission_permanente"])) {
+      o.selected = true;
+    }
+  });
+}
+
+function unSelectOptions() {
+  const commission_select = document.getElementById('commission');
+  [...commission_select.selectedOptions].forEach(o => o.selected = false);
 }
 
 function writeEmail() {
