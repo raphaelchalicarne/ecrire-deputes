@@ -3,7 +3,7 @@ window.onload = function () {
 };
 
 async function fetchData() {
-  const export_deputes = await fetch('/data/export_deputes.json')
+  const export_deputes = await fetch('./data/export_deputes.json')
   return await export_deputes.json();
 }
 
