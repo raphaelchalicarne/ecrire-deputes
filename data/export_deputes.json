@@ -1,0 +1,4041 @@
+[
+  {
+    "nom": "Charles de Courson",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "charles.decourson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marc Le Fur",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marc.lefur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Ciotti",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.ciotti@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Monique Iborra",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "monique.iborra@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thierry Benoit",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "thierry.benoit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Vigier",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "philippe.vigier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Dussopt",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.dussopt@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jacqueline Maquet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jacqueline.maquet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michel Herbillon",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "michel.herbillon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michèle Tabarot",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "michele.tabarot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Woerth",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Président",
+    "assemblee_nationale_email": "eric.woerth@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Gosselin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "philippe.gosselin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Joël Giraud",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Rapporteur Général",
+    "assemblee_nationale_email": "joel.giraud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bertrand Pancher",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bertrand.pancher@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Delphine Batho",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "delphine.batho@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Morel-À-L'Huissier",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Lois",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "pierre.morel-a-lhuissier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-Noëlle Battistel",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "marie-noelle.battistel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Véronique Besse",
+    "groupe_sigle": "NI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "veronique.besse@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Guillaume Garot",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "guillaume.garot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yannick Favennec-Bécot",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "yannick.favennec@assemblee-nationale.fr"
+  },
+  {
+    "nom": "André Chassaigne",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "andre.chassaigne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Luc Warsmann",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-luc.warsmann@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Dupont-Aignan",
+    "groupe_sigle": "NI",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicolas.dupont-aignan@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-Christine Dalloz",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "marie-christine.dalloz@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Dino Cinieri",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "dino.cinieri@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marietta Karamanli",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marietta.karamanli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julien Dive",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "julien.dive@assemblee-nationale.fr"
+  },
+  {
+    "nom": "David Habib",
+    "groupe_sigle": "NI",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "david.habib@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Xavier Breton",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "xavier.breton@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Franck Riester",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "franck.riester@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Marleix",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.marleix@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Cécile Untermaier",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "cecile.untermaier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Damien Abad",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "damien.abad@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Véronique Louwagie",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "veronique.louwagie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Patrick Vignal",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "patrick.vignal@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gérald Darmanin",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "gerald.darmanin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Paul Molac",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "paul.molac@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Falorni",
+    "groupe_sigle": "NI",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.falorni@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Eva Sas",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "Finances",
+    "fonction": "VP",
+    "assemblee_nationale_email": "eva.sas@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Dominique Potier",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "dominique.potier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Sansu",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Finances",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicolas.sansu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurent Marcangeli",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Finances",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "laurent.marcangeli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Travert",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stephane.travert@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Philippe Nilor",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-philippe.nilor@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Alauzet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.alauzet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Pierre Vigier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-pierre.vigier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Annie Genevard",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "annie.genevard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Faure",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.faure@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Valérie Rabault",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "valerie.rabault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophie Errante",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sophie.errante@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Florent Boudié",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "florent.boudie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Pires Beaune",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "christine.piresbeaune@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Louis Bricout",
+    "groupe_sigle": "NI",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-louis.bricout@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Barbara Pompili",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Présidente",
+    "assemblee_nationale_email": "barbara.pompili@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Virginie Duby-Muller",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "virginie.duby-muller@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Patrick Hetzel",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "patrick.hetzel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Véran",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Rapporteur Général",
+    "assemblee_nationale_email": "olivier.veran@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérôme Guedj",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jerome.guedj@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Meyer Habib",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "meyer.habib@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Joël Aviragnet",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "joel.aviragnet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Naillet",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.naillet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Bothorel",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.bothorel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nadia Hai",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "nadia.hai@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Guillaume Kasbarian",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "guillaume.kasbarian@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Cyrille Isaac-Sibille",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "cyrille.isaac-sibille@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Guillaume Vuilletet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "guillaume.vuilletet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuelle Anthoine",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "emmanuelle.anthoine@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurence Vichnievsky",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "laurence.vichnievsky@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Annaïg Le Meur",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "annaig.lemeur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Paul Lecoq",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-paul.lecoq@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bertrand Sorre",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bertrand.sorre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurore Bergé",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "aurore.berge@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Marc Zulesi",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-marc.zulesi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fabrice Le Vigoureux",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "fabrice.levigoureux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mohamed Laqhila",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "mohamed.laqhila@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Loïc Kervran",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "loic.kervran@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Géraldine Bannier",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "geraldine.bannier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Caroline Abadie",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "caroline.abadie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Vatin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pierre.vatin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Claire Pitollat",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "claire.pitollat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Cécile Rilhac",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "cecile.rilhac@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Vincent Descoeur",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "vincent.descoeur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Latombe",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "philippe.latombe@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thibault Bazin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "thibault.bazin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Denis Masséglia",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "denis.masseglia@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Richard Ramos",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "richard.ramos@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Raphaël Schellenberger",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "raphael.schellenberger@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sacha Houlié",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sacha.houlie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Carole Grandjean",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "carole.grandjean@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Boris Vallaud",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "boris.vallaud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Didier Paris",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "didier.paris@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandrine Le Feur",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sandrine.lefeur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alain David",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "alain.david@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-Pierre Rixain",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marie-pierre.rixain@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Constance Le Grip",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "constance.legrip@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuelle Ménard",
+    "groupe_sigle": "NI",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "emmanuelle.menard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédérique Meunier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "frederique.meunier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sébastien Jumel",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sebastien.jumel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Noël Barrot",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "jean-noel.barrot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Serva",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.serva@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Ian Boucard",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "ian.boucard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Amélia Lakrafi",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "amelia.lakrafi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Paul Mattei",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-paul.mattei@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Naegelen",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "christophe.naegelen@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Maud Petit",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "maud.petit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre-Henri Dumont",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pierre-henri.dumont@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Jacques Gaultier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-jacques.gaultier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bruno Millienne",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bruno.millienne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hervé Saulignac",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "herve.saulignac@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Forissier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicolas.forissier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Graziella Melchior",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "graziella.melchior@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Geneviève Darrieussecq",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "genevieve.darrieussecq@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fadila Khattabi",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "fadila.khattabi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sarah El Haïry",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sarah.elhairy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Isabelle Valentin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "isabelle.valentin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michel Lauzzana",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "michel.lauzzana@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stanislas Guerini",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stanislas.guerini@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Carles Grelier",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-carles.grelier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-René Cazeneuve",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-rene.cazeneuve@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Belkhir Belhaddad",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "belkhir.belhaddad@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-François Portarrieu",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-francois.portarrieu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Robin Reda",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "robin.reda@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie Lebec",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marie.lebec@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Caroline Fiat",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "caroline.fiat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Louis Bourlanges",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-louis.bourlanges@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Annie Vidal",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "annie.vidal@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Brigitte Liso",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "brigitte.liso@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sébastien Chenu",
+    "groupe_sigle": "RN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sebastien.chenu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bertrand Bouyx",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bertrand.bouyx@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean Terlier",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean.terlier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Danielle Brulebois",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "danielle.brulebois@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Ludovic Mendes",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "ludovic.mendes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Turquois",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicolas.turquois@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurélien Taché",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "aurelien.tache@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Blandine Brocard",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "blandine.brocard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "François Jolivet",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "francois.jolivet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Guy Bricout",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "guy.bricout@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Cordier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pierre.cordier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Élodie Jacquier-Laforge",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "elodie.jacquier-laforge@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bastien Lachaud",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bastien.lachaud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Petit",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "frederic.petit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Gassilloud",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "thomas.gassilloud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hubert Wulfranc",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "hubert.wulfranc@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Didier Le Gac",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "didier.legac@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nathalie Bassire",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nathalie.bassire@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Valérie Bazin-Malgras",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "valerie.bazin-malgras@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandrine Josso",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sandrine.josso@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie Guévenoux",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marie.guevenoux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Guillaume Gouffier-Cha",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "guillaume.gouffier-cha@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michel Castellani",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "michel.castellani@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Damien Adam",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "damien.adam@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Blanchet",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "christophe.blanchet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Dunoyer",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "philippe.dunoyer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sylvain Maillard",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sylvain.maillard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Caroline Janvier",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "caroline.janvier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophie Panonacle",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sophie.panonacle@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Girardin",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "membre",
+    "assemblee_nationale_email": "eric.girardin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marine Le Pen",
+    "groupe_sigle": "RN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marine.lepen@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicole Dubré-Chirat",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicole.dubre-chirat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "François Ruffin",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "francois.ruffin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Corinne Vignon",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "corinne.vignon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lise Magnier",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "lise.magnier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Ugo Bernalicis",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "ugo.bernalicis@assemblee-nationale.fr"
+  },
+  {
+    "nom": "François Cormier-Bouligeon",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "francois.cormier-bouligeon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michèle Peyron",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "michele.peyron@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Véronique Riotton",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "veronique.riotton@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Berta",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "philippe.berta@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Patricia Mirallès",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "patricia.miralles@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marc Fesneau",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marc.fesneau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Roland Lescure",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Président",
+    "assemblee_nationale_email": "roland.lescure@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Charlotte Parmentier-Lecocq",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "charlotte.lecocq@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Agnès Firmin Le Bodo",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "agnes.firminlebodo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fabienne Colboc",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "fabienne.colboc@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Didier Martin",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "didier.martin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aude Luquet",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "aude.luquet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Luc Fugit",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "jean-luc.fugit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hervé Berville",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "herve.berville@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yaël Braun-Pivet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Présidente",
+    "assemblee_nationale_email": "yael.braun-pivet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jimmy Pahun",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jimmy.pahun@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivier Becht",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olivier.becht@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sabine Thillaye",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sabine.thillaye@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Vincent Thiébaut",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "vincent.thiebaut@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Pierre Pont",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-pierre.pont@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gabriel Attal",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "gabriel.attal@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Yves Bony",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-yves.bony@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Raphaël Gérard",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "raphael.gerard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bruno Bilde",
+    "groupe_sigle": "RN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bruno.bilde@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Coquerel",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.coquerel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Michel Jacques",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "jean-michel.jacques@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Rudigoz",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "thomas.rudigoz@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Charles Larsonneur",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-charles.larsonneur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Erwan Balanant",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "erwan.balanant@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Maquet",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "emmanuel.maquet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Peu",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stephane.peu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fabien Di Filippo",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "fabien.difilippo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Paul-André Colombani",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "paul-andre.colombani@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fabien Roussel",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "fabien.roussel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gilles Le Gendre",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "gilles.le.gendre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Le Nabour",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "christine.lenabour@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mathilde Panot",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "mathilde.panot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandre Holroyd",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "alexandre.holroyd@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marjolaine Meynier-Millefert",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marjolaine.meynier-millefert@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yannick Haury",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "yannick.haury@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Josy Poueyto",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "josy.poueyto@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Bolo",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "philippe.bolo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Patrice Perrot",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "patrice.perrot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Dharréville",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pierre.dharreville@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphanie Rist",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stephanie.rist@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Daniel Labaronne",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "daniel.labaronne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lionel Causse",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "lionel.causse@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurélien Pradié",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "aurelien.pradie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Isabelle Rauch",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "isabelle.rauch@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Paul Christophe",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "paul.christophe@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olivia Grégoire",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Vice-présidente",
+    "assemblee_nationale_email": "olivia.gregoire@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Naïma Moutchou",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "naima.moutchou@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bérangère Couillard",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "berangere.couillard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Poulliat",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.poulliat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexis Corbière",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "alexis.corbiere@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Elsa Faucillon",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "elsa.faucillon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Clémentine Autain",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "clementine.autain@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Vincent Rolland",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "vincent.rolland@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandra Marsaud",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sandra.marsaud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Mesnier",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "thomas.mesnier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Pierre Cubertafon",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "jean-pierre.cubertafon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Maxime Minot",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "maxime.minot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Danièle Obono",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "daniele.obono@assemblee-nationale.fr"
+  },
+  {
+    "nom": "André Villiers",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "andre.villiers@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pascale Boyer",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pascale.boyer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Hugues Ratenon",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-hugues.ratenon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Buchou",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stephane.buchou@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pieyre-Alexandre Anglade",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pieyre-alexandre.anglade@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Florence Lasserre",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "florence.lasserre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérôme Nury",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jerome.nury@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Xavier Roseren",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "xavier.roseren@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Natalia Pouzyreff",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "natalia.pouzyreff@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Max Mathiasin",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "max.mathiasin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne-Laurence Petel",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "anne-laurence.petel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mansour Kamardine",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "mansour.kamardine@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Vincent Bru",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "vincent.bru@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne Genetet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "anne.genetet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Henriet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pierre.henriet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Adrien Quatennens",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "membre",
+    "assemblee_nationale_email": "adrien.quatennens@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicole Le Peih",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "nicole.lepeih@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bruno Studer",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Président",
+    "assemblee_nationale_email": "bruno.studer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurence Maillart-Méhaignerie",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Vice-Président",
+    "assemblee_nationale_email": "laurence.maillart-mehaignerie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Béatrice Piron",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "beatrice.piron@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Perrine Goulet",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "perrine.goulet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Félix Acquaviva",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-felix.acquaviva@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Xavier Batut",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "xavier.batut@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bénédicte Taurine",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "benedicte.taurine@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne Brugnera",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "anne.brugnera@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Olga Givernet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "olga.givernet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fabrice Brun",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "fabrice.brun@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Josiane Corneloup",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "josiane.corneloup@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benjamin Dirx",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "benjamin.dirx@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stella Dupont",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stella.dupont@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Huguette Tiegna",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "huguette.tiegna@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hubert Julien-Laferrière",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "hubert.julien-laferriere@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bruno Fuchs",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "bruno.fuchs@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophie Mette",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "sophie.mette@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Loïc Prud'homme",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "loic.prudhomme@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Céline Calvez",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "celine.calvez@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Émilie Bonnivard",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Finances de l’économie générale et du contrôle budgétaire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "emilie.bonnivard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Liliana Tanguy",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "liliana.tanguy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Viry",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "stephane.viry@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Dominique Da Silva",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires sociales",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "dominique.dasilva@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Marie Fiévet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Secrétaire",
+    "assemblee_nationale_email": "jean-marie.fievet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Descrozaille",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "frederic.descrozaille@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laetitia Saint-Paul",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "laetitia.saint-paul@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Béatrice Descamps",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "Affaires culturelles et de l'éducation",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "beatrice.descamps@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Moetai Brotherson",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "moetai.brotherson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Philippe Ardouin",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-philippe.ardouin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Mazars",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Vice-président",
+    "assemblee_nationale_email": "stephane.mazars@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mireille Clapot",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Affaires étrangères",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "mireille.clapot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Rémy Rebeyrotte",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "remy.rebeyrotte@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Pauget",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Affaires économiques",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "eric.pauget@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-France Lorho",
+    "groupe_sigle": "RN",
+    "commission_permanente": "Lois",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "marie-france.lorho@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Louis Thiériot",
+    "groupe_sigle": "LR",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "jean-louis.thieriot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mounir Belhamiti",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Défense nationale et forces armées",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "mounir.belhamiti@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pascal Lavergne",
+    "groupe_sigle": "REN",
+    "commission_permanente": "Développement durable et aménagement du territoire",
+    "fonction": "Membre",
+    "assemblee_nationale_email": "pascal.lavergne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Meizonnet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.meizonnet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Claudia Rouaux",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "claudia.rouaux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nathalie Serre",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nathalie.serre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Brigitte Klinkert",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "brigitte.klinkert@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Luc Bourgeaux",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-luc.bourgeaux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Chantal Jourdan",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "chantal.jourdan@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gérard Leseul",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "gerard.leseul@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne-Laure Blin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne-laure.blin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Isabelle Santiago",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "isabelle.santiago@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Karine Lebon",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "karine.lebon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Maud Gatel",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "maud.gatel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Luc Lamirault",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "luc.lamirault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Victor Habert-Dassault",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "victor.habert-dassault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christelle Petex-Levet",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christelle.petex-levet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Vojetta",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephane.vojetta@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Blairy",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.blairy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Victor Castor",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-victor.castor@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benoit Mournet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benoit.mournet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sylvain Carrière",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sylvain.carriere@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Johnny Hajjar",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "johnny.hajjar@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie Pochon",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marie.pochon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Danielle Simonnet",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "danielle.simonnet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frank Giletti",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frank.giletti@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benjamin Lucas",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benjamin.lucas@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sarah Legrain",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sarah.legrain@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurent Alexandre",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurent.alexandre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Delphine Lingemann",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "delphine.lingemann@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Cazenave",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "thomas.cazenave@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Meurin",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pierre.meurin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "José Gonzalez",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jose.gonzalez@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurent Jacobelli",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurent.jacobelli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hervé de Lépinau",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "herve.delepinau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Victor Catteau",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "victor.catteau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julien Bayou",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julien.bayou@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Charles Fournier",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "charles.fournier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Lottiaux",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.lottiaux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérémie Iordanoff",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jeremie.iordanoff@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Boccaletti",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.boccaletti@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Franck Allisio",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "franck.allisio@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierrick Berteloot",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pierrick.berteloot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Caroline Colombier",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "caroline.colombier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Xavier Albertini",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "xavier.albertini@assemblee-nationale.fr"
+  },
+  {
+    "nom": "David Amiel",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "david.amiel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "François Gernigon",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "francois.gernigon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Idir Boumertit",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "idir.boumertit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Francis Dubois",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "francis.dubois@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Maxime Laisney",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "maxime.laisney@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Rodrigo Arenas",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "rodrigo.arenas@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sabrina Sebaihi",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sabrina.sebaihi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Émilie Chandler",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emilie.chandler@assemblee-nationale.fr"
+  },
+  {
+    "nom": "David Guiraud",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "david.guiraud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pascale Bordes",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pascale.bordes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anna Pic",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anna.pic@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aymeric Caron",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "aymeric.caron@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Pellerin",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.pellerin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benjamin Haddad",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benjamin.haddad@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne-Cécile Violland",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne-cecile.violland@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Isabelle Périgault",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "isabelle.perigault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Martine Etienne",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "martine.etienne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Steve Chailloux",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "steve.chailloux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emeline K/Bidi",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emeline.kbidi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michaël Taverne",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "michael.taverne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "David Valence",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "david.valence@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julie Lechanteux",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julie.lechanteux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Dominique Faure",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "dominique.faure@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Manon Meunier",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "manon.meunier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pierre Cazeneuve",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pierre.cazeneuve@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bénédicte Auzanot",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benedicte.auzanot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérémie Patrier-Leitus",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jeremie.patrier-leitus@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Bentz",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christophe.bentz@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandre Portier",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandre.portier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yannick Chenevard",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "yannick.chenevard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Annick Cousin",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "annick.cousin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Mathieu",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.mathieu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sylvie Ferrer",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sylvie.ferrer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Ballard",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.ballard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Timothée Houssin",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "timothee.houssin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Justine Gruet",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "justine.gruet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-Agnès Poussier-Winsback",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marieagnes.poussier-winsback@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Manuel Bompard",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "manuel.bompard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Fatiha Keloua Hachi",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "fatiha.kelouahachi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Joris Hébrard",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "joris.hebrard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thierry Frappé",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "thierry.frappe@assemblee-nationale.fr"
+  },
+  {
+    "nom": "José Beaurain",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jose.beaurain@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Decodts",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christine.decodts@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gabriel Amard",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "gabriel.amard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Pradal",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.pradal@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julie Laernoes",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julie.laernoes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Antoine Léaument",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "antoine.leaument@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Ségolène Amiot",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "segolene.amiot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Grégoire de Fournas",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "gregoire.defournas@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mélanie Thomin",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "melanie.thomin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Delautrette",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephane.delautrette@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Maillot",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.maillot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Cabrolier",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.cabrolier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frantz Gumbs",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frantz.gumbs@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jiovanny William",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jiovanny.william@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Maud Bregeon",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "maud.bregeon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emeric Salmon",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emeric.salmon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Gisèle Lelouis",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "gisele.lelouis@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Romain Daubié",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "romain.daubie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hélène Laporte",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "helene.laporte@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Françoise Buffet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "francoise.buffet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Cyrielle Chatelain",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "cyrielle.chatelain@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Portes",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "thomas.portes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Edwige Diaz",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "edwige.diaz@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Quentin Bataillon",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "quentin.bataillon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yannick Monnet",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "yannick.monnet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Marion",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christophe.marion@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Matthieu Marchio",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "matthieu.marchio@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jordan Guitton",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jordan.guitton@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Estelle Youssouffa",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "estelle.youssouffa@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pascal Lecamp",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pascal.lecamp@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Angélique Ranc",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "angelique.ranc@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Lenormand",
+    "groupe_sigle": "LIOT",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephane.lenormand@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thibaut François",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "thibaut.francois@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Davy Rimane",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "davy.rimane@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Louis Boyard",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "louis.boyard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophie Blanc",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sophie.blanc@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Élise Leboucher",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "elise.leboucher@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Brun",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.brun@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Pascale Martin",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "pascale.martin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Schreck",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.schreck@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christian Girard",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christian.girard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurélien Lopez-Liguori",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "aurelien.lopezliguori@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marina Ferrari",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marina.ferrari@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-François Coulomme",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-francois.coulomme@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jocelyn Dessigny",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jocelyn.dessigny@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Tematai Le Gayic",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "tematai.legayic@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Barthès",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christophe.barthes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marianne Maximi",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marianne.maximi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anaïs Sabatini",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anais.sabatini@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurence Robert-Dehault",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurence.robert-dehault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophie Taillé-Polian",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sophie.taille-polian@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne-Sophie Frigout",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne-sophie.frigout@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lionel Vuibert",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lionel.vuibert@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hadrien Ghomi",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "hadrien.ghomi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Karim Ben Cheikh",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "karim.bencheikh@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Élisa Martin",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "elisa.martin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Paul Vannier",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "paul.vannier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Prisca Thevenot",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "prisca.thevenot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Claude Raux",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-claude.raux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bertrand Petit",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "bertrand.petit@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mathieu Lefèvre",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mathieu.lefevre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mikaele Seo",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mikaele.seo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Karen Erodi",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "karen.erodi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Antoine Villedieu",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "antoine.villedieu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-François Lovisolo",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-francois.lovisolo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julie Delpech",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julie.delpech@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lysiane Métayer",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lysiane.metayer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Romain Baubry",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "romain.baubry@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nadège Abomangoli",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nadege.abomangoli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Catherine Couturier",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "catherine.couturier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-François Rousset",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-francois.rousset@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandra Martin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandra.martin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Loir",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christine.loir@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marcellin Nadeau",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marcellin.nadeau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexis Izard",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexis.izard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lisette Pollet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lisette.pollet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Pacquot",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.pacquot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Andy Kerbrat",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "andy.kerbrat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Antoine Armand",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "antoine.armand@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Ersilia Soudais",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "ersilia.soudais@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Arnaud Le Gall",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "arnaud.legall@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michel Sala",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "michel.sala@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Kévin Pfeffer",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "kevin.pfeffer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Daniel Grenon",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "daniel.grenon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandre Sabatou",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandre.sabatou@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphanie Galzy",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephanie.galzy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurélie Trouvé",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "aurelie.trouve@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Aurélien Saintoul",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "aurelien.saintoul@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Marc Tellier",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-marc.tellier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sébastien Delogu",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sebastien.delogu@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mathilde Hignet",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mathilde.hignet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandra Masson",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandra.masson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sarah Tanzilli",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sarah.tanzilli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Philippe Tanguy",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-philippe.tanguy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "William Martinet",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "william.martinet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Carlos Martens Bilongo",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "carlosmartens.bilongo@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Géraldine Grangier",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "geraldine.grangier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marc Ferracci",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marc.ferracci@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lionel Tivoli",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lionel.tivoli@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bastien Marchive",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "bastien.marchive@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Francesca Pasquini",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "francesca.pasquini@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Béatrice Roullaud",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "beatrice.roullaud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Charles Rodwell",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "charles.rodwell@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Plassard",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christophe.plassard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Antoine Vermorel-Marques",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "antoine.vermorel-marques@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Clément Beaune",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "clement.beaune@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Elie Califer",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "elie.califer@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Fernandes",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.fernandes@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laure Lavalette",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laure.lavalette@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Perceval Gaillard",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "perceval.gaillard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Dragon",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.dragon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christelle D'Intorni",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christelle.dintorni@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hubert Brigand",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "hubert.brigand@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne Le Hénanff",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne.lehenanff@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hubert Ott",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "hubert.ott@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Violette Spillebout",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "violette.spillebout@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Estelle Folest",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "estelle.folest@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Florian Chauche",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "florian.chauche@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurence Cristol",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurence.cristol@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne-Laure Babault",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne-laure.babault@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mickaël Bouloux",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mickael.bouloux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexis Jolly",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexis.jolly@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Paul Midy",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "paul.midy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hadrien Clouet",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "hadrien.clouet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jorys Bovet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jorys.bovet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Matthias Tavel",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "matthias.tavel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Inaki Echaniz",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "inaki.echaniz@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marie-Charlotte Garin",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marie-charlotte.garin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Kévin Mauvieux",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "kevin.mauvieux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Andrée Taurinya",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "andree.taurinya@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nathalie Da Conceicao Carvalho",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nathalie.daconceicaocarvalho@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Marine Hamelet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "marine.hamelet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Juvin",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.juvin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandrine Rousseau",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sandrine.rousseau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anthony Brosse",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anthony.brosse@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Valletoux",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.valletoux@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérôme Legavre",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jerome.legavre@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Éric Martineau",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "eric.martineau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurent Croizier",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurent.croizier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Henri Alfandari",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "henri.alfandari@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphanie Kochert",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephanie.kochert@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yannick Neuder",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "yannick.neuder@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alma Dufour",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alma.dufour@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Vincent Seitlinger",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "vincent.seitlinger@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Philippe Fait",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "philippe.fait@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Laurent Panifous",
+    "groupe_sigle": "NI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "laurent.panifous@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Thierry",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.thierry@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandra Regol",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sandra.regol@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Florence Goulet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "florence.goulet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yaël Menache",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "yael.menache@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michèle Martinez",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "michele.martinez@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Rachel Keke",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "rachel.keke@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sandrine Dogor-Such",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sandrine.dogor-such@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nathalie Oziol",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nathalie.oziol@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Thomas Ménagé",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "thomas.menage@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mathilde Paris",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mathilde.paris@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Mickaël Cosson",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "mickael.cosson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Hendrik Davi",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "hendrik.davi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Serge Muller",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "serge.muller@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julien Rancoule",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julien.rancoule@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sébastien Rome",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sebastien.rome@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Bryan Masson",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "bryan.masson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Astrid Panosyan-Bouvet",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "astrid.panosyan-bouvet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Caroline Parmentier",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "caroline.parmentier@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jérôme Buisson",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jerome.buisson@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Léo Walter",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "leo.walter@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Arrighi",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christine.arrighi@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Élisabeth Borne",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "elisabeth.borne@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Charles Sitzenstuhl",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "charles.sitzenstuhl@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Roger Vicot",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "roger.vicot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Arthur Delaporte",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "arthur.delaporte@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Roger Chudeau",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "roger.chudeau@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christophe Bex",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christophe.bex@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Murielle Lepvraud",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "murielle.lepvraud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Michel Guiniot",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "michel.guiniot@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Joëlle Mélin",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "joelle.melin@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Katiana Levavasseur",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "katiana.levavasseur@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Didier Lemaire",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "didier.lemaire@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Louis Margueritte",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "louis.margueritte@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Taché de la Pagerie",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.tachedelapagerie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Lacresse",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.lacresse@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sébastien Peytavie",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sebastien.peytavie@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benoît Bordat",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benoit.bordat@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Soumya Bourouaha",
+    "groupe_sigle": "GDR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "soumya.bourouaha@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Metzdorf",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.metzdorf@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Jean-Pierre Taite",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "jean-pierre.taite@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sabrina Agresti-Roubache",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sabrina.agrestiroubache@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christine Engrand",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christine.engrand@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandre Vincendet",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandre.vincendet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Emmanuel Mandon",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "emmanuel.mandon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Nicolas Ray",
+    "groupe_sigle": "LR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "nicolas.ray@assemblee-nationale.fr"
+  },
+  {
+    "nom": "David Taupiac",
+    "groupe_sigle": "NI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "david.taupiac@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Louise Morel",
+    "groupe_sigle": "MODEM",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "louise.morel@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lionel Royer-Perreaut",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lionel.royer-perreaut@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Sophia Chikirou",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "sophia.chikirou@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Christian Baptiste",
+    "groupe_sigle": "SOC",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "christian.baptiste@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Alexandre Loubet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "alexandre.loubet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Benjamin Saint-Huile",
+    "groupe_sigle": "NI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "benjamin.saint-huile@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Yoann Gillet",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "yoann.gillet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Charlotte Leduc",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "charlotte.leduc@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Karl Olive",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "karl.olive@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Lisa Belluco",
+    "groupe_sigle": "ECO",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "lisa.belluco@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Damien Maudet",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "damien.maudet@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Béatrice Bellamy",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "beatrice.bellamy@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Félicie Gérard",
+    "groupe_sigle": "HOR",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "felicie.gerard@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Anne Stambach-Terrenoir",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "anne.stambach-terrenoir@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Julien Odoul",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "julien.odoul@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Farida Amrani",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "farida.amrani@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Raquel Garrido",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "raquel.garrido@assemblee-nationale.fr"
+  },
+  {
+    "nom": "François Piquemal",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "francois.piquemal@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Frédéric Falcon",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "frederic.falcon@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Clémence Guetté",
+    "groupe_sigle": "LFI",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "clemence.guette@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Stéphane Rambaud",
+    "groupe_sigle": "RN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "stephane.rambaud@assemblee-nationale.fr"
+  },
+  {
+    "nom": "Eléonore Caroit",
+    "groupe_sigle": "REN",
+    "commission_permanente": "",
+    "fonction": "",
+    "assemblee_nationale_email": "eleonore.caroit@assemblee-nationale.fr"
+  }
+]
