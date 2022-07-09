@@ -20,13 +20,13 @@ async function populateEmailOptions() {
 
 function writeEmail() {
   var form = document.forms.email_deputes;
-  var selected_depute_emails = [...form.elements["deputes_emails"].selectedOptions]
+  var selected_deputes_emails = [...form.elements["deputes_emails"].selectedOptions]
     .map(selected_depute => selected_depute.value)
     .join();
   let email_subject = form.elements["inputObjet"].value;
   let email_body = form.elements["inputCorps"].value;
 
-  const mailto_url = new URL('mailto:' + selected_depute_emails);[]
+  const mailto_url = new URL('mailto:' + selected_deputes_emails);
   mailto_url.searchParams.append('subject', email_subject);
   mailto_url.searchParams.append('body', email_body);
   window.open(mailto_url);
